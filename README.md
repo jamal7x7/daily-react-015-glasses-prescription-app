@@ -1,6 +1,6 @@
 ## daily-react-015-glasses-prescription-app
 
-> Challenge: create an eyelasses prescription app
+> Challenge: create an eyeglasses prescription app
 
 My ongoing submission: https://github.com/jamal7x7/daily-react-015-glasses-prescription-app
 
